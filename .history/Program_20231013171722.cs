@@ -1,0 +1,7 @@
+﻿namespace Balta
+{
+  class Program
+  {
+    
+  }
+}
